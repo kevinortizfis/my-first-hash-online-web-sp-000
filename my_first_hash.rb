@@ -1,5 +1,5 @@
 def my_hash
-{'root' => 'beer', 'coca' => 'cola'}
+your_hash = {'root' => 'beer', 'coca' => 'cola'}
 
 end
 
